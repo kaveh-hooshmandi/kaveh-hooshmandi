@@ -9,6 +9,9 @@
 - 🎯 Interests: Visual Odometry, SLAM, Path Planning, and Real-time Systems.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveh-hooshmandi)
 
+  <p> <img src="https://img.icons8.com/color/48/python.png" alt="Python"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/> <img src="https://img.icons8.com/color/48/matlab.png" alt="MATLAB"/> <img src="https://img.icons8.com/color/48/ros.png" alt="ROS"/> <img src="https://img.icons8.com/ios/50/linux.png" alt="Linux"/> </p>
+  
+
 Navigation (VO | VIO | SLAM | Path Planning | Autonomous Navigation | Obstacle Avoidance)
 
 Control (PID | SMC | Modern | MPC | Robust | Data-Driven)
