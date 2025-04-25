@@ -6,7 +6,7 @@
 
 🔧 Robotics / Control / Embedded Systems  
 🚀 Passionate about SLAM, Visual Odometry, and Autonomous Systems  
-📍 Tehran, Iran  
+📍 Arak, Iran  
 
 - 🔭 Currently working at **AUT** on robotics projects focused on Control and Perception.  
 - 🎯 Interests: Visual Odometry, SLAM, Path Planning, Real-time Systems.  
