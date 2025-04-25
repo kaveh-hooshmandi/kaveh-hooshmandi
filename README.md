@@ -1,5 +1,5 @@
-Kaveh Hooshmandi
-<img src="ChatGPT Image Apr 25, 2025, 04_40_10 PM.png" width="100%" />
+<h1 align="center">👋 Kaveh Hooshmandi (Control/Robotics Engineer)</h1>
+<img src="ChatGPT Image Apr 25, 2025, 04_40_10 PM.png" width="70%" />
 🔧 Robotics / Control / Embedded Systems  
 🚀 Passionate about SLAM, Visual Odometry, and Autonomous Systems  
 📍 Tehran, Iran  
