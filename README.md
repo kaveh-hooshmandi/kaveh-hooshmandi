@@ -4,7 +4,7 @@ Kaveh Hooshmandi
 🚀 Passionate about SLAM, Visual Odometry, and Autonomous Systems  
 📍 Tehran, Iran  
 
-- 🔭 Currently working on smart robotics projects using Control and perception.
+- 🔭 Currently working in AUT on robotics projects using Control and perception.
 - 🎯 Interests: Visual Odometry, SLAM, Path Planning, and Real-time Systems.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveh-hooshmandi)
 
