@@ -1,7 +1,7 @@
 <h1 align="center">Kaveh Hooshmandi (Control / Robotics Engineer)</h1>
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="ChatGPT Image Apr 25, 2025, 04_40_10 PM.png"/>
+  <img src="banner.png" width="100%" alt="a.png"/>
 </p>
 
 ---
