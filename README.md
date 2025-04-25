@@ -21,4 +21,17 @@ Optimization (Analytical (SD, GN, LM, etc.) | Meta-heuristic (GA, PSO, ICA, ACO,
 Machine Learning (Classical (KNN, RF, Lin. Reg., Log. Reg., etc.) | Deep (MLP, CNN, RNN, etc.))
 
 
+
+👀 Let's See
+🛠 I’m currently accepting freelance projects (ROS, Gazebo, Embedded Control, etc.)
+
+🌱 I’m working on my own VIO-SLAM system.
+
+🎯 Ready to start a new position as a PhD student
+
+📫 Feel free to reach out at: kaveh.hooshmandi@gmail.com
+
+😊 Life is beautiful, isn’t it?
+
+
 ![Kaveh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveh-hooshmandi&show_icons=true&theme=default)
