@@ -1,14 +1,14 @@
-<h1 align="center">Kaveh Hooshmandi (Control / Robotics Engineer)</h1>
+<h1 align="center">Kaveh Hooshmandi (Control / Embedded Systems Engineer)</h1>
 
 <img src="a.png" width="100%" />
 
 ---
 
-🔧 Robotics / Control / Embedded Systems  
+🔧 Control / Embedded Systems  
 🚀 Passionate about SLAM, Visual Odometry, and Autonomous Systems  
 📍 Arak, Iran  
 
-- 🔭 Currently working at **AUT** on robotics projects focused on Control and Perception.  
+- 🔭 Currently working at **AUT** on projects focused on Control and Perception.  
 - 🎯 Interests: Visual Odometry, SLAM, Path Planning, Real-time Systems.  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kaveh-hooshmandi)  
 
