@@ -9,7 +9,8 @@
 - 🎯 Interests: Visual Odometry, SLAM, Path Planning, and Real-time Systems.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kaveh-hooshmandi)
 
-  <p> <img src="https://img.icons8.com/color/48/python.png" alt="Python"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/> <img src="https://img.icons8.com/color/48/matlab.png" alt="MATLAB"/> <img src="https://img.icons8.com/color/48/ros.png" alt="ROS"/> <img src="https://img.icons8.com/ios/50/linux.png" alt="Linux"/> </p>
+🖥️ <h1 align="center"> Programming Skills</h1>
+<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry%20pi&logoColor=white" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
   
 
 Navigation (VO | VIO | SLAM | Path Planning | Autonomous Navigation | Obstacle Avoidance)
