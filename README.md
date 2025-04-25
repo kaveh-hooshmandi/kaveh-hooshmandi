@@ -32,7 +32,6 @@
 ### 🛠️ Engineering Skills
 
 - **Control:** PID, SMC, Modern Control, MPC, Robust Control, Data-Driven  
-- **Localization & Navigation:** VO, VIO, SLAM, Path Planning, Autonomous Navigation, Obstacle Avoidance  
 - **Microcontrollers & Hardware:** STM32, ARM, Raspberry Pi  
 - **Software & Tools:** ROS (Developer), Gazebo, MATLAB, Simulink, Git  
 - **Industrial Control:** Siemens PLC  
