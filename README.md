@@ -1,8 +1,6 @@
 <h1 align="center">Kaveh Hooshmandi (Control / Robotics Engineer)</h1>
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="a.png"/>
-</p>
+<img src="a.png" width="100%" />
 
 ---
 
