@@ -5,11 +5,10 @@
 ---
 
 🔧 Control / Embedded Systems  
-🚀 Passionate about SLAM, Visual Odometry, and Autonomous Systems  
+🚀 Passionate about Nonlinear Control,   diabetes control system  
 📍 Arak, Iran  
 
-- 🔭 Currently working at **AUT** on projects focused on Control and Perception.  
-- 🎯 Interests: Visual Odometry, SLAM, Path Planning, Real-time Systems.  
+- 🔭 Currently working at **AUT** on projects focused on Control and practical biomedical challenges
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/kaveh-hooshmandi)  
 
 ---
@@ -33,16 +32,15 @@
 
 - **Control:** PID, SMC, Modern Control, MPC, Robust Control, Data-Driven  
 - **Microcontrollers & Hardware:** STM32, ARM, Raspberry Pi  
-- **Software & Tools:** ROS (Developer), Gazebo, MATLAB, Simulink, Git  
+- **Software & Tools:** MATLAB, Simulink, Git  
 - **Industrial Control:** Siemens PLC  
-- **Optimization:** Analytical (SD, GN, LM), Meta-heuristic (GA, PSO, ICA, etc.)
+- **Optimization:** Analytical (SD, GN, LM)
 
 ---
 
 ### 📌 Let's See
 
-- 🛠 I’m currently accepting **freelance projects** (ROS, Gazebo, Embedded Control, etc.)  
-- 🌱 Working on my own **VIO-SLAM** module  
+- 🛠 I’m currently accepting **freelance projects** ( Embedded Control, etc.)  
 - 📫 Reach me at: [dk.hooshmandi@gmail.com](mailto:dk.hooshmandi@gmail.com)  
 - 😊 *Life is beautiful, isn’t it?*
 
